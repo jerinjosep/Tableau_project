@@ -4,7 +4,7 @@
 
 # Solution-We have found out profitable strategies to increase the revenue of the organisation and also methods to reduce the losses in the sectors 
 
-# Improve Profits in the South
+# Product sales visualization
 # https://public.tableau.com/views/Productsalesvisualization_16297375226510/ImproveProfitsintheSouth?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Area chart of Sales Profit
