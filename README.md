@@ -12,7 +12,7 @@
 
 # Tableau_project 2
 
-# Objective- What are the Track records of the Launch sites,temperature details,humidity details 
+# Objective- What are the Track records of the Launch sites,temperature details & humidity details 
 
 # Space Mission
 # https://public.tableau.com/app/profile/jerin6203/viz/SpaceMission_16312594989610/Dashboard1
